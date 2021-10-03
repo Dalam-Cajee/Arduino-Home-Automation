@@ -1,2 +1,5 @@
 # Arduino-Home-Automation
-https://pixabay.com/illustrations/letter-but-the-letter-a-decoration-3499237/
+
+Overview of the setup.
+![alt text](https://imgur.com/40ry1Ig)
+![alt text](https://imgur.com/P8x9xUP)
